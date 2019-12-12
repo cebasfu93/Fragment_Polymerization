@@ -1,0 +1,6 @@
+LINKER_NDXS     =     9               			#Which linkers to assemble together
+N_LINKERS       =     1             			#How many of each linker to place
+CAP_NDX         =     2               			#Which capping fragment to finish with
+LINKER_DIR      =     Fragments/LINKING/          #Directory with the linking mol2 files
+CAP_DIR         =     Fragments/CAPPING/	        #Directory with the capping mol2 files
+OUTNAME         =     MIDFILES/L1/L1.mol2	        #Name of the output mol2 file
